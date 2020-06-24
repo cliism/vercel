@@ -1,2 +1,2 @@
 # vercel
-deploy to vercel
+deploy to vercel (demo site)
